@@ -1,0 +1,11 @@
+nop;
+x := true;
+if (x = true) then
+    y := false
+else
+    y := true
+fi;
+while (y = false) do
+    nop
+od;
+nop
