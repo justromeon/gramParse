@@ -1,6 +1,6 @@
 # gramParse
 
-Welcome to gramParse, a Haskell project demonstrating parsing and converting a custom language into JSON using Cabal.
+>gramParse, a Haskell project demonstrating parsing and converting a mini language into JSON using Cabal, with help of Haskell's Algebraic Data Types.
 
 ## Project Structure
 
